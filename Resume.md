@@ -3,15 +3,15 @@
 [*Deva@LI*](www.linkedin.com/in/devatharshini-t-39362a17a)
 # DEVATHARSHINI T
  ## CAREER OBJECTIVE
-  To be a part of an organization where I could use and enhance my knowledge and talent for the development of both the organization and       myself.
+  * To be a part of an organization where I could use and enhance my knowledge and talent for the development of both the organization and       myself.
  ## EDUCATIONAL QUALIFICATIONS
  * Persuing My **B.E** in Electronics and Communication at Velammal College of Engineering and Technology with 83 percentage till sixth        sem. 
  * Complete My **HSC** at M.G.H.S with 90.5 percentage.
  * Complete My **SSLC** at M.G.H.S with 95.2 percentage.
  ## TECHNICAL PROFICIENCY
- * **Programming Languages** - C,C++
- * **Web Designing Languages** - HTML,CSS
- * **Tools Exposure** - PSPICE,Dev C++
+ * **Programming Languages** **-** C,C++
+ * **Web Designing Languages** **-** HTML,CSS
+ * **Tools Exposure** **-** PSPICE,Dev C++
  ## SUBJECT OF INTEREST
  * Digital Electronics
  * Computer Networks
