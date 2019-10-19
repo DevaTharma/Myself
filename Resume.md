@@ -16,14 +16,14 @@
  * Digital Electronics
  * Computer Networks
  ## C0-CURRICULAR ACTIVITIES
- ### Paper presented
- * Presented a paper on "**TRAFFIC MANAGEMENT SYSTEM**" on 20th February 2019 at National Engineering College
- * Presented a paper on "**SMARTFARMER**" on 12th February 2019 at Kongu Engineering College
- * Presented a paper on "**RECENT TRENDS IN INTERNET OF THINGS**" on 8th February 2019 at National Engineering College
- ### Project presented
- * Done a project on "**HEART BEAT MONITORING SYSTEM**" in November 2018 at Velammal College of Engineering And Technology
- ### Workshop attended
- * "**Digitall's Sangamam 2018-Confluence Of Technology**" on 13th October 2018 at TN Chamber Madurai
+  ### Paper presented
+  * Presented a paper on "**TRAFFIC MANAGEMENT SYSTEM**" on 20th February 2019 at National Engineering College
+  * Presented a paper on "**SMARTFARMER**" on 12th February 2019 at Kongu Engineering College
+  * Presented a paper on "**RECENT TRENDS IN INTERNET OF THINGS**" on 8th February 2019 at National Engineering College
+  ### Project presented
+  * Done a project on "**HEART BEAT MONITORING SYSTEM**" in November 2018 at Velammal College of Engineering And Technology
+  ### Workshop attended
+  * "**Digitall's Sangamam 2018-Confluence Of Technology**" on 13th October 2018 at TN Chamber Madurai
  ## EXTRA-CURRICULAR ACTIVITIES
  * Memeber of **ECO-CLUB** during the year 2017-18 at Velammal College of Engineering and Technology
  * Member of **ECE-Association** during the year of 2018-2019 in Electronics and Communication Engineering department at  Velammal College    of Engineering and Technology
