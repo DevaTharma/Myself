@@ -1,11 +1,14 @@
+ <br>Address</br>
+ <br>1/319 Perumbalai</br>
+ <br>Sivaganga-630702</br>
 [poongothaideva400@gmail.com](mailto:poongothaideva400@gmail.com) | 
 [9942523809](tel:9942523809) |
 [*Deva@LI*](www.linkedin.com/in/devatharshini-t-39362a17a)
 # DEVATHARSHINI T
  ## CAREER OBJECTIVE
-  * To be a part of an organization where I could use and enhance my knowledge and talent for the development of both the organization and       myself.
+ * To be a part of an organization where I could use and enhance my knowledge and talent for the development of both the organization       and myself.
  ## EDUCATIONAL QUALIFICATIONS
- * Persuing My **B.E** in Electronics and Communication at Velammal College of Engineering and Technology with 83 percentage till sixth        sem. 
+ * Persuing My **B.E** in Electronics and Communication at Velammal College of Engineering and Technology with 83 percentage till sixth    semester. 
  * Complete My **HSC** at M.G.H.S with 90.5 percentage.
  * Complete My **SSLC** at M.G.H.S with 95.2 percentage.
  ## TECHNICAL PROFICIENCY
