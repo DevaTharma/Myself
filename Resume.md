@@ -1,6 +1,3 @@
- Address</br>
- 1/319 Perumbalai
- Sivaganga-630702
 [poongothaideva400@gmail.com](mailto:poongothaideva400@gmail.com) | 
 [9942523809](tel:9942523809) |
 [*Deva@LI*](www.linkedin.com/in/devatharshini-t-39362a17a)
@@ -36,4 +33,8 @@
  ## Languages Known
  * Tamil
  * English
+ ## CONTACT
+   Address<br/>
+   1/319 Perumbalai<br/>
+   Sivaganga-630702<br/>
 
