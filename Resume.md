@@ -1,4 +1,4 @@
-poongothaideva400@gmail.com | 
+**Email** :poongothaideva400@gmail.com | 
 **LinkedIn** : Devatharshini T |
 +91 9942523809 |
 
