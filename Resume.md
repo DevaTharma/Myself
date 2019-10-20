@@ -1,5 +1,5 @@
 [poongothaideva400@gmail.com](mailto:poongothaideva400@gmail.com) | 
-[Devatharshini T](linked in:Devatharshini T) |
+LinkedIn : Devatharshini T
 [+91 9942523809](tel:9942523809) |
 
 # DEVATHARSHINI T
