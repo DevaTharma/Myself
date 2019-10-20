@@ -9,9 +9,9 @@
  * Complete My **HSC** at M.G.H.S with 90.5 percentage.
  * Complete My **SSLC** at M.G.H.S with 95.2 percentage.
  ## TECHNICAL PROFICIENCY
- * **Programming Languages** **-** C,C++
- * **Web Designing Languages** **-** HTML,CSS
- * **Tools Exposure** **-** PSPICE,Dev C++
+ * **Programming Languages** : C,C++
+ * **Web Designing Languages** : HTML,CSS
+ * **Tools Exposure**  :PSPICE,Dev C++
  ## SUBJECT OF INTEREST
  * Digital Electronics
  * Computer Networks
@@ -33,9 +33,6 @@
  ## PERSONAL DETAILS
  **Father's Name**    : D.Tharmarajan<br/>
 **Date of Birth**     : 04-*june*-1999<br/>
- **Languages Known**  : Tamil,English
- ## CONTACT
-   Address<br/>
-   1/319 Perumbalai<br/>
-   Sivaganga-630702<br/>
+ **Languages Known**  : Tamil,English<br/>
+ **Address**          : 1/319 Perumbalai,Sivaganga-630702
 
