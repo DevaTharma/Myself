@@ -1,6 +1,6 @@
-[poongothaideva400@gmail.com](mailto:poongothaideva400@gmail.com) | 
-LinkedIn : Devatharshini T
-[+91 9942523809](tel:9942523809) |
+poongothaideva400@gmail.com | 
+**LinkedIn** : Devatharshini T |
++91 9942523809 |
 
 # DEVATHARSHINI T
  ## CAREER OBJECTIVE
