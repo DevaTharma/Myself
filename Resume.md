@@ -1,5 +1,5 @@
 [poongothaideva400@gmail.com](mailto:poongothaideva400@gmail.com) | 
-[9942523809](tel:9942523809) |
+[+91 9942523809](tel:9942523809) |
 [*Deva@LI*](www.linkedin.com/in/devatharshini-t-39362a17a)
 # DEVATHARSHINI T
  ## CAREER OBJECTIVE
@@ -30,9 +30,10 @@
  * Served as a **School pupil leader** during the period of 2015-16
  ## HOBBIES
  * Listening to songs and surfing the web
- ## Languages Known
- * Tamil
- * English
+ ## PERSONAL DETAILS
+ **Father's Name**    : D.Tharmarajan<br/>
+**Date of Birth**     : 04-*june*-1999<br/>
+ **Languages Known**  : Tamil,English
  ## CONTACT
    Address<br/>
    1/319 Perumbalai<br/>
