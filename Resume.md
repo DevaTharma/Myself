@@ -34,5 +34,5 @@
  **Father's Name**    : D.Tharmarajan<br/>
 **Date of Birth**     : 04-june-1999<br/>
  **Languages Known**  : Tamil,English<br/>
- **Address**     : 1/319 Perumbalai,Sivaganga-630702
+     **Address**          : 1/319 Perumbalai,Sivaganga-630702
 
