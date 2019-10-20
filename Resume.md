@@ -1,6 +1,7 @@
 [poongothaideva400@gmail.com](mailto:poongothaideva400@gmail.com) | 
+[Devatharshini T](linked in:Devatharshini T) |
 [+91 9942523809](tel:9942523809) |
-[*Deva@LI*](www.linkedin.com/in/devatharshini-t-39362a17a)
+
 # DEVATHARSHINI T
  ## CAREER OBJECTIVE
  * To be a part of an organization where I could use and enhance my knowledge and talent for the development of both the organization       and myself.
