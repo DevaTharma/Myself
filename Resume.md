@@ -6,7 +6,7 @@
  ## CAREER OBJECTIVE
  * To be a part of an organization where I could apply my technical and interpersonal skills for the development of both the organization and myself.
  ## PROFILE
- * An Electronics and Communication Engineer with consistent academic excellence from the schooling and interested in coding, research and technologies desired to prove the interpersonal and technical skills.
+ * An Electronics and Communication Engineer with consistent academic excellence from the schooling who is passionate towards coding, research and technologies desired to prove the interpersonal and technical skills.
  ## EDUCATIONAL QUALIFICATIONS
  * Persuing My **B.E** in Electronics and Communication at Velammal College of Engineering and Technology with 83 percentage (till sixth    semester) 
  * Complete My **HSC** at M.G.H.S with 90.5 percentage.
