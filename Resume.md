@@ -38,9 +38,11 @@
  * Served as a **School pupil leader** during the period of 2015-16
  ## HOBBIES
  * Listening to music and surfing web
+ ## Personality traits
+ * Adaptable
+ * Quick learner
  ## PERSONAL DETAILS
  **Father's Name**    : D.Tharmarajan<br/>
 **Date of Birth**     : 04-june-1999<br/>
  **Languages Known**  : Tamil,English<br/>
      **Address**          : 1/319 Perumbalai,Sivaganga-630702
-
