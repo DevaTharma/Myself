@@ -22,7 +22,7 @@
  ## C0-CURRICULAR ACTIVITIES
   ### Paper presented
   * Presented a paper on "**TRAFFIC MANAGEMENT SYSTEM**" on 20th February 2019 at National Engineering College
-  * Presented a paper on "**SMARTFARMER**" on 12th February 2019 at Kongu Engineering College
+  * Presented a paper on "**SMART FARMER**" on 12th February 2019 at Kongu Engineering College
   * Presented a paper on "**RECENT TRENDS IN INTERNET OF THINGS**" on 8th February 2019 at National Engineering College
   ### Ongoing Project
  * Project title:   “**Development of algorithm for Image Processing, Enhancement, 2D Mosaicing and 3D construction of Submerged Features/Objects for digital reconstruction of Poompuhar**”
